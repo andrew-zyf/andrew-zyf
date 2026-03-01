@@ -2,20 +2,21 @@
 
 **Sr. FPGA System Architect & Comtech Sales | Based in Shenzhen**
 
-I am a Sr. FPGA System Architect & Comtech Sales. I work at the intersection of semiconductors, system architecture, and real-world applications, helping customers choose and design with the right compute platforms.
+I work at the intersection of semiconductors, system architecture, and real-world applications, helping customers choose and design with the right compute platforms.
 
-## 👨‍💻 What I Do
+## 🧠 As a System Architect (Technical Expertise)
 
-- 💼 **Semiconductor Sales:** I am responsible for driving solutions and sales for **AMD FPGA/Zynq/Versal/Embedded x86** and **NVIDIA Networking / RTX PRO / Jetson Embedded** products.
-- 🧠 **System Architecture:** Translating complex application requirements into practical hardware & system architectures, especially for AI inference, vision, and industrial/edge scenarios.
-- 🤖 **Edge Exploration:** Exploring Multimodal AI on the edge, combining cameras, sensors, and real‑time analytics.
-- 💡 **Tech Evaluation:** Evaluating and comparing high‑performance computing platforms for performance, cost, and deployability.
+- **System Architecture:** Translating complex application requirements into practical hardware & system architectures, especially for AI inference, vision, and industrial/edge scenarios.
+- **Edge Exploration:** Exploring Multimodal AI on the edge, combining cameras, sensors, and real‑time analytics.
+- **Tech Evaluation:** Evaluating and comparing high‑performance computing platforms for performance, cost, and deployability.
+- **Key Skills:** HW/SW Co-design, High-Speed Networking, AI Inference.
 
-## 🛠️ Products & Focus Areas
+## 💼 As a Comtech Sales (Products I Sell)
 
-* **Products I Sell:** AMD FPGA/Zynq/Versal/Embedded x86, NVIDIA Networking, NVIDIA RTX PRO GPUs, NVIDIA Jetson Embedded Systems.
-* **System Design:** Hardware/Software Co-design, High-Speed Networking, Compute Platform Evaluation.
-* **Applications:** AI Inference, Computer Vision, Multimodal Edge AI, Industrial Scenarios.
+I provide commercial support and drive solutions for the following industry-leading platforms:
+
+- 🟢 **AMD Portfolio:** FPGA / Zynq / Versal / Embedded x86
+- 🟢 **NVIDIA Portfolio:** Networking / RTX PRO / Jetson Embedded
 
 ## 🔗 Connect with Me
 

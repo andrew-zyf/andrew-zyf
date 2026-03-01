@@ -1,25 +1,21 @@
 # Hi there 👋, I'm Andrew Zyf
 
-**Sr. FPGA System Architect | Hardware/Software Co-design & Edge AI**
+**Sr. FPGA System Architect & Comtech Sales | Based in Shenzhen**
 
-I work at the intersection of semiconductors, system architecture, and real-world applications, helping customers choose and design with the right compute platforms.
+I am a Sr. FPGA System Architect & Comtech Sales. I work at the intersection of semiconductors, system architecture, and real-world applications, helping customers choose and design with the right compute platforms.
 
 ## 👨‍💻 What I Do
 
-- ⚡ **Core Focus:** Architecting solutions based on **AMD FPGA/SoC** and **NVIDIA RTX/Jetson**.
+- 💼 **Semiconductor Sales:** I am responsible for driving solutions and sales for **AMD FPGA/Zynq/Versal/Embedded x86** and **NVIDIA Networking / RTX PRO / Jetson Embedded** products.
 - 🧠 **System Architecture:** Translating complex application requirements into practical hardware & system architectures, especially for AI inference, vision, and industrial/edge scenarios.
 - 🤖 **Edge Exploration:** Exploring Multimodal AI on the edge, combining cameras, sensors, and real‑time analytics.
-- 💡 **Tech Evaluation:** Evaluating and comparing high‑performance computing platforms (AMD Versal/Zynq, NVIDIA RTX/Jetson, high‑speed networking) for performance, cost, and deployability.
+- 💡 **Tech Evaluation:** Evaluating and comparing high‑performance computing platforms for performance, cost, and deployability.
 
-## 🛠️ Tech Stack & Platforms
+## 🛠️ Products & Focus Areas
 
-*(Here are some of the platforms and concepts I focus on)*
-
-![AMD](https://img.shields.io/badge/AMD-Adaptive_SoCs_&_FPGAs-black?style=for-the-badge&logo=amd)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-Jetson_&_RTX-76B900?style=for-the-badge&logo=nvidia)
-![System Architecture](https://img.shields.io/badge/System-Architecture-0052CC?style=for-the-badge)
-![Edge AI](https://img.shields.io/badge/Edge-Multimodal_AI-FF6F00?style=for-the-badge)
-![HW/SW Co-design](https://img.shields.io/badge/Design-HW%2FSW_Co--design-4B32C3?style=for-the-badge)
+* **Products I Sell:** AMD FPGA/Zynq/Versal/Embedded x86, NVIDIA Networking, NVIDIA RTX PRO GPUs, NVIDIA Jetson Embedded Systems.
+* **System Design:** Hardware/Software Co-design, High-Speed Networking, Compute Platform Evaluation.
+* **Applications:** AI Inference, Computer Vision, Multimodal Edge AI, Industrial Scenarios.
 
 ## 📊 GitHub Stats
 
@@ -29,8 +25,8 @@ I work at the intersection of semiconductors, system architecture, and real-worl
 
 ## 🔗 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-andrew--zyf.github.io-1a2035?style=for-the-badge&logo=google-chrome&logoColor=white)](https://andrew-zyf.github.io)
-[![X (Twitter)](https://img.shields.io/badge/X-%40andrew__zyf-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/andrew_zyf)
+- 🌐 [andrew-zyf.github.io](https://andrew-zyf.github.io)
+- 🐦 [X (Twitter)](https://x.com/andrew_zyf)
 
 ---
-⭐️ *Feel free to explore my repositories or reach out via X (Twitter)!*
+⭐️ *Feel free to explore my repositories or reach out via X (Twitter) for architecture discussions or product inquiries!*

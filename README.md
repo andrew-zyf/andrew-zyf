@@ -17,12 +17,6 @@ I am a Sr. FPGA System Architect & Comtech Sales. I work at the intersection of 
 * **System Design:** Hardware/Software Co-design, High-Speed Networking, Compute Platform Evaluation.
 * **Applications:** AI Inference, Computer Vision, Multimodal Edge AI, Industrial Scenarios.
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrew-zyf&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Andrew's GitHub Stats" />
-</p>
-
 ## 🔗 Connect with Me
 
 - 🌐 [andrew-zyf.github.io](https://andrew-zyf.github.io)

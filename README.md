@@ -30,8 +30,7 @@ I work at the intersection of semiconductors, system architecture, and real-worl
 ### 📊 GitHub 数据统计 (GitHub Stats)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrew-zyf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-zyf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=andrew-zyf&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---

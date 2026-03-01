@@ -2,9 +2,9 @@
 
 **Sr. FPGA System Architect & Account Manager @ Comtech | Based in Shenzhen (坐标深圳)**
 
-Based in Shenzhen. I work at the intersection of semiconductors, system architecture, and real-world applications. My primary focus is driving solutions within the AMD adaptive computing ecosystem, while providing complementary NVIDIA networking and edge products to help customers build complete system architectures from concept to commercial deployment.
+I work at the intersection of semiconductors, system architecture, and real-world applications. My primary focus is driving solutions within the AMD adaptive computing ecosystem, while providing complementary NVIDIA networking and edge products to help customers build complete system architectures from concept to commercial deployment.
 
-> 💡 **简介:** 坐标深圳。我的工作致力于将半导体技术、系统架构与真实应用场景相融合。我专注于提供基于 AMD 生态的核心计算解决方案，同时辅以 NVIDIA 网络与边缘计算产品，为客户提供从顶层架构设计到商业供货的端到端支持。
+> 💡 **简介:** 我的工作致力于将半导体技术、系统架构与真实应用场景相融合。我专注于提供基于 AMD 生态的核心计算解决方案，同时辅以 NVIDIA 网络与边缘计算产品，为客户提供从顶层架构设计到商业供货的端到端支持。
 
 ## 🛠️ Technical Expertise | 核心架构能力
 
@@ -25,6 +25,14 @@ Based in Shenzhen. I work at the intersection of semiconductors, system architec
 
 - 🌐 [Website: andrew-zyf.github.io](https://andrew-zyf.github.io)
 - 🐦 [X (Twitter): @andrew_zyf](https://x.com/andrew_zyf)
+- 💬 **微信公众号:** AI & FPGA（查看方法：微信搜一搜）
+
+### 📊 GitHub 数据统计 (GitHub Stats)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrew-zyf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-zyf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 ⭐️ *Feel free to explore my repositories or reach out via X (Twitter) for architecture discussions or product inquiries!*

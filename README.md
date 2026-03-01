@@ -1,19 +1,19 @@
 # Hi there 👋, I'm Andrew Zyf
 
-**Sr. FPGA System Architect & Comtech Sales | Based in Shenzhen (坐标深圳)**
+**Sr. FPGA System Architect & Account Manager @ Comtech | Based in Shenzhen (坐标深圳)**
 
-I work at the intersection of semiconductors, system architecture, and real-world applications. My primary business focuses on driving solutions within the AMD adaptive computing ecosystem, while also providing complementary NVIDIA products to help customers build complete, high-performance system architectures.
+Based in Shenzhen. I work at the intersection of semiconductors, system architecture, and real-world applications. My primary focus is driving solutions within the AMD adaptive computing ecosystem, while providing complementary NVIDIA networking and edge products to help customers build complete system architectures from concept to commercial deployment.
 
-> 💡 **简介:** 我是一名资深 FPGA 系统架构师与 Comtech 销售。我的工作致力于将半导体技术、系统架构与真实应用场景相融合。我专注于提供基于 AMD 生态的解决方案，同时提供 NVIDIA 网络与边缘计算产品作为补充，帮助客户构建完整的系统架构。
+> 💡 **简介:** 坐标深圳。我的工作致力于将半导体技术、系统架构与真实应用场景相融合。我专注于提供基于 AMD 生态的核心计算解决方案，同时辅以 NVIDIA 网络与边缘计算产品，为客户提供从顶层架构设计到商业供货的端到端支持。
 
 ## 🛠️ Technical Expertise | 核心架构能力
 
 - **System Architecture (系统架构):** Translating complex application requirements into practical hardware & system architectures, especially for AI inference, vision, and industrial/edge scenarios.
 - **Edge Exploration (边缘计算):** Exploring Multimodal AI on the edge, combining cameras, sensors, and real‑time analytics.
 - **Tech Evaluation (选型评估):** Evaluating and comparing high‑performance computing platforms for performance, cost, and deployability.
-- **Key Skills:** HW/SW Co-design, High-Speed Networking, AI Inference.
+- **Key Skills (核心技能):** HW/SW Co-design, High-Speed Networking, AI Inference.
 
-## 💼 Products I Sell | 销售产品矩阵
+## 💼 Products I Sell & Support | 销售产品矩阵
 
 - 🔴 **Core Portfolio - Primary Focus (核心主推业务):** **AMD** FPGA / Zynq / Versal / Embedded x86
   *(Delivering end-to-end sales and architectural support for AMD's compute platforms. / 提供 AMD 计算平台的端到端销售与架构支持。)*
